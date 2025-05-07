@@ -1,0 +1,9 @@
+
+# Label mapping
+id2label = {
+    "0": "cloudy/overcast",
+    "1": "foggy/hazy",
+    "2": "rain/storm",
+    "3": "snow/frosty",
+    "4": "sun/clear"
+}
